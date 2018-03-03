@@ -1,8 +1,11 @@
 public class Main {
 
     public static void main(String[] args) {
+        String abc = "Heello world";
+        int a, b, c;
+        a = b = c = 0;
         System.out.println("Helrld mzf!");
-        System.out.println(1 + 2 + 3);
-        System.out.println(1 + 2);
+        System.out.println(1 + abc + 3);
+        System.out.println(a + abc);
     }
 }
