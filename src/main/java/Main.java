@@ -10,7 +10,7 @@ public class Main {
         int qwer = 123;
         System.out.println(qwer);
         int a,b,c;
-        int d =32432;
+        int d =32433;
         System.exit(1);
         System.out.println(1 + "aaa" +3 + 1+ 3 +2+2);
         System.out.println(a + "abc" +abc);
