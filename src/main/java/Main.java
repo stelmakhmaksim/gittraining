@@ -17,7 +17,7 @@ public class Main {
         System.out.println(a + "dac" +abc);asdsda
         System.out.println(a + "dac" +abc);asdsda
         System.out.println(a + "dac" +abc);asdsda
-        int d = c +123;
+        int d = c +123;qwqrqqwe
         int f = c +23;
         int e = a +234asd;
         int fix = 5;
