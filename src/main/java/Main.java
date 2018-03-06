@@ -12,9 +12,12 @@ public class Main {
         int a,b,c;
         int d =32433;
         System.exit(1);
+        System.out.println(a + "abc+1"+1+ +abc);
         System.out.println(1 + "aaa" +3 + 1+ 3 +2+2);
         System.out.println(a + "abc" +abc);sdasd
         System.out.println(a + "asc" +abc);
+        System.out.println(a + "dac" +abc);asdsda
+        int d = c +123;
         System.out.println(a + "dac" +abc);
         int d = c +123;qweqweqw
         int f = c +23;
