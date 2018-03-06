@@ -22,6 +22,6 @@ public class Main {
         int e = a +234asd;
         int fix = 5;
         int fix = 5;sadas
-        int fix = 5;
+        int fix = 5;sadasd
     }
 }
