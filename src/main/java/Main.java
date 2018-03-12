@@ -8,6 +8,6 @@ public class Main {
         int c = 3;
         int d = c +1233;
         int qwer = 123;
-        //it's master
+        //it's mastersadasd
     }
 }
